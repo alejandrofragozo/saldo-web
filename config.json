@@ -1,0 +1,42 @@
+{
+    "appName": "Saldo",
+    "domain": "https://alejandrofragozo.github.io/saldo-web/",
+    "year": 2026,
+    "links": {
+        "download": "https://play.google.com/store/apps/details?id=com.fragozo.saldo",
+        "privacy": "/legal/index.html?lang=es&doc=privacy",
+        "terms": "/legal/index.html?lang=es&doc=terms",
+        "facebook": "#",
+        "instagram": "#",
+        "faq": "#",
+        "support": "#"
+    },
+    "pricing": {
+        "currencySymbol": "$",
+        "countryCode": "COP",
+        "monthly": {
+            "price": "11.500",
+            "period": "/ mes",
+            "features": [
+                "Clientes ilimitados",
+                "Sincronización automática",
+                "Sin anuncios",
+                "Periodo de gracia"
+            ]
+        },
+        "annual": {
+            "price": "89.000",
+            "period": "/ año",
+            "badge": "Mejor Valor",
+            "saveMessage": "Ahorra vs. el plan mensual",
+            "features": [
+                "Clientes ilimitados",
+                "Sincronización automática",
+                "Sin anuncios",
+                "Periodo de gracia 14 días"
+            ],
+            "isRecommended": true
+        },
+        "disclaimer": "* Los precios pueden variar según tu región. Consulta Google Play para precios exactos en tu país."
+    }
+}
